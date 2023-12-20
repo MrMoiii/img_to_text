@@ -1,3 +1,10 @@
+# How to use
+
+Press the `Backspace` key to initiate the image capture process.
+After pressing Backspace, the program will wait for the next `two mouse clicks to define the rectangular area for image capture`. Click on two points to form a rectangle.
+The program will capture the specified image and process it to extract text using Tesseract OCR.
+The extracted `text will be copied to the clipboard` automatically. You can paste the text wherever needed using the standard paste command (`Ctrl+V or Cmd+V`).
+
 # Installation
 
 To use this program, follow the steps below:
